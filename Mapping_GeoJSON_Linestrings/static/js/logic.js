@@ -14,8 +14,8 @@ attribution: 'Map data © <a href="https://www.openstreetmap.org/">OpenStreetMap
 
 //Create a base layer that holds both maps.
 let baseMaps = {
-  Light: light,
-  Dark: dark
+  "Light": light,
+  "Dark": dark
 };
 
 // Create the map object with center, zoom level and default layer.
